@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danielamissah/danielamissah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and ML engineer based in Hamburg, Germany.
+I build web applications with Next.js and TypeScript, and AI systems
+with Python, LangChain, and LangGraph.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Web apps** — Next.js, TypeScript, React, deployed on Vercel
+- 🤖 **AI systems** — RAG pipelines, multi-agent systems, LLM applications
+- ☁️ **Backend & cloud** — FastAPI, PostgreSQL, Docker, GitHub Actions CI/CD
+
+## Recent work
+
+- [Shitonova](https://shitonova.vercel.app) — Full-stack food delivery platform
+- [WhitetoGray](https://white-to-gray-moments.vercel.app) — Event planning platform
+- [CyberGuard](https://huggingface.co/spaces/dkamissah/cyberguard-agent) — Multi-agent AI research assistant
+
+## Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+📫 danielkwameamissah@gmail.com
+🔗 [Portfolio](https://danielkwameamissah.com) · [LinkedIn](https://linkedin.com/in/danielkamissah)
