@@ -12,9 +12,10 @@ with Python, LangChain, and LangGraph.
 
 ## Recent work
 
-- [Shitonova](https://shitonova.vercel.app) — Full-stack food delivery platform
+- [Shitonova](https://shitonova.com) — Full-stack food delivery platform
 - [WhitetoGray](https://white-to-gray-moments.vercel.app) — Event planning platform
 - [CyberGuard](https://huggingface.co/spaces/dkamissah/cyberguard-agent) — Multi-agent AI research assistant
+- [Sheppy's Publications](https://sheppys-publications.netlify.app/) - Full-stack Publishing Platform
 
 ## Stack
 
