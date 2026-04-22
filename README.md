@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-Full-stack developer and ML engineer based in Hamburg, Germany.
+Full-stack developer and ML engineer.
 I build web applications with Next.js and TypeScript, and AI systems
 with Python, LangChain, and LangGraph.
 
