@@ -14,7 +14,6 @@ with Python, LangChain, and LangGraph.
 
 - [Shitonova](https://shitonova.com) — Full-stack food delivery platform
 - [Sheppy's Publications](https://sheppyspublications.com/) - Full-stack Publishing Platform
-- [WhitetoGray](https://white-to-gray-moments.vercel.app) — Event planning platform
 - [CyberGuard](https://huggingface.co/spaces/dkamissah/cyberguard-agent) — Multi-agent AI research assistant
 
 ## Stack
